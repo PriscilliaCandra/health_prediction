@@ -24,7 +24,7 @@ cd diabetes-heart-disease-prediction
 
 ### Running the Application
 ```bash
-python app.py
+streamlit run app.py
 ```
 
 ## Technologies Used
